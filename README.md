@@ -17,6 +17,8 @@ http://ktsde.kips.or.kr/digital-library/24795
 - preFilterCap : 필터링된 이미지 픽셀을 위한 Truncation(절단) 값이다.
 - mode : cv2.STEREO_SGBM_MODE_HH, MODE_HH4, MODE_SGBM_3WAY 등의 모드가 있다.
 
+#### 이론 
+- 자세한 건 https://github.com/zoomin-lee/SKKU/tree/master/introduction_of_computer_vision
 ![A3 이론_1](https://user-images.githubusercontent.com/65997635/128139221-94c750a3-2972-4bdc-93bb-8bb2a866e144.png)
 ![A3 이론_2](https://user-images.githubusercontent.com/65997635/128139194-5e3cead8-3169-4c78-8e0e-dbce94d160de.png)
 ![A3 이론_3](https://user-images.githubusercontent.com/65997635/128139201-6512405a-55b7-4713-91e6-1d81bdf3c774.png)
