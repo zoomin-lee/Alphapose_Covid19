@@ -4,7 +4,7 @@ http://ktsde.kips.or.kr/digital-library/24795
 
 
 ### Opencv 함수
-####cv2.StereoSGBM_create의 파라미터
+#### cv2.StereoSGBM_create의 파라미터
 - minDisparity : 가능한 최소한의 disparity 값으로 보통 0으로 설정하지만 조정 알고리즘이 이미지를 이동시킬 수 있어서 이 파라미터는 알맞게 조정되어야 한다.
 - numDisparities : 최대 disparity - 최소 disparity 값으로 항상 0보다 큰 값을 갖는다.
 - blockSize : 매칭된 블록 사이즈로 1보다 큰 홀수여야한다. 보통 3~11의 값을 갖는다.
