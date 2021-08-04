@@ -16,3 +16,6 @@ http://ktsde.kips.or.kr/digital-library/24795
 - speckleRange : 각 연결된 요소들 내에서 최대 disparity 변동이다. speckle 필터링을 한다면, 양수로 설정하고, 이는 16과 곱해질 것이기다. 보통 1,2면 좋다.
 - preFilterCap : 필터링된 이미지 픽셀을 위한 Truncation(절단) 값이다.
 - mode : cv2.STEREO_SGBM_MODE_HH, MODE_HH4, MODE_SGBM_3WAY 등의 모드가 있다.
+
+
+![A3 이론_2](https://user-images.githubusercontent.com/65997635/128139194-5e3cead8-3169-4c78-8e0e-dbce94d160de.png)
