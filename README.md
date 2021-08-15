@@ -29,6 +29,5 @@ http://ktsde.kips.or.kr/digital-library/24795
 
 ## 이론 
 ### Stereo Vision 
-https://github.com/zoomin-lee/SKKU/blob/master/introduction_of_computer_vision/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EA%B0%9C%EB%A1%A0.pdf
-
+https://github.com/zoomin-lee/SKKU/blob/master/introduction_of_computer_vision/Introduction_of_Computer_Vision.pdf
 ### Alpha-Pose
