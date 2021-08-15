@@ -17,6 +17,16 @@ http://ktsde.kips.or.kr/digital-library/24795
 - preFilterCap : 필터링된 이미지 픽셀을 위한 Truncation(절단) 값이다.
 - mode : cv2.STEREO_SGBM_MODE_HH, MODE_HH4, MODE_SGBM_3WAY 등의 모드가 있다.
 
+<br/>
+
+### cv2.ximgproc_DisparityWLSFilter.filter(disparity_SGBM, imgL)
+: edge 부분에서는 smoothing를 줄이고, 나머지 부분에 대해서 smoothing을 해주는 방법
+
+![image](https://user-images.githubusercontent.com/65997635/129466376-eac57b78-4b19-4a30-b2f0-24b51c91573c.png)
+
+<br/>
+<br/>
+
 ## 이론 
 ### Stereo Vision 
 https://github.com/zoomin-lee/SKKU/blob/master/introduction_of_computer_vision/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EA%B0%9C%EB%A1%A0.pdf
