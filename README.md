@@ -19,7 +19,7 @@ http://ktsde.kips.or.kr/digital-library/24795
 
 <br/>
 
-### cv2.ximgproc_DisparityWLSFilter.filter(disparity_SGBM, imgL)
+### cv2.ximgproc.createDisparityWLSFilter(stereo)
 : edge 부분에서는 smoothing를 줄이고, 나머지 부분에 대해서 smoothing을 해주는 방법
 
 ![image](https://user-images.githubusercontent.com/65997635/129466376-eac57b78-4b19-4a30-b2f0-24b51c91573c.png)
